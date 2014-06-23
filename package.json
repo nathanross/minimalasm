@@ -1,6 +1,6 @@
 {
   "name": "minimalasm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reduce visual clutter in asm.js through these sweet.js macros",
   "main": "minimalasm.sjs",
   "scripts": {

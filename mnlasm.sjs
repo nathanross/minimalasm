@@ -70,3 +70,7 @@ macro dbl {
 		$statement ...
 	}
 }
+
+export f;
+export int;
+export dbl;
